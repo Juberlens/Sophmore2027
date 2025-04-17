@@ -26,6 +26,20 @@
       </div>
     </div>
 
+    <section>
+      <h2>Understanding Operating Systems</h2>
+      <div class="os-cards">
+        <div class="card">
+          <h3>What is an OS?</h3>
+          <p>An Operating System manages computer hardware and software resources, bridging the gap between users and machines.</p>
+        </div>
+        <div class="card">
+          <h3>Proprietary OS</h3>
+          <p>Owned by a single company, proprietary OSs keep their source code private. Examples include Windows and MacOS.</p>
+        </div>
+        <div class="card">
+          <h3>Open-Source OS</h3>
+          <p>Freely available and modifiable, open-source OSs encourage community collaboration. Linux is a prime example.</p>
 
     </section>
   </div>
