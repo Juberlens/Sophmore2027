@@ -1,1 +1,34 @@
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Computer Networks</title>
+</head>
+ <h1>Explore the World of OSs</h1>
+  <hr>
+  
+  <div class="container">
+    <h2>The OS - Operating Systems</h2>
+
+    <div class="os-cards">
+      <div class="card">
+        <h3><a href="windows.html">Windows</a></h3>
+        <p>Windows is a proprietary OS widely used for personal computers.</p>
+      </div>
+      <div class="card">
+        <h3><a href="linux.html">Linux</a></h3>
+        <p>Linux is an open-source OS known for its flexibility and security.</p>
+      </div>
+      <div class="card">
+        <h3><a href="macos.html">MacOS</a></h3>
+        <p>MacOS is a proprietary OS designed for Apple's devices.</p>
+      </div>
+    </div>
+
+
+    </section>
+  </div>
+
+</body>
+</html>
